@@ -264,7 +264,6 @@ Cocos AI Copilot `0.1.0` 正式包直接使用已通过第二台全新电脑真�
 - [首次使用说明](docs/FIRST_USE.md)
 - [更新日志](CHANGELOG.md)
 - [0.1.0 Release Notes](docs/RELEASE_NOTES_0.1.0.md)
-- [Cocos 扩展市场上架文案](docs/COCOS_STORE_LISTING_0.1.0.md)
 
 ## License
 
